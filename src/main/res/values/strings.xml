@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">侧滑菜单</string>
+	<string name="height_image">400</string>
+    <string name="about_menu">about</string>
+    <string name="exit_menu">exit</string>
+	<string name="qrcode_menu">generate qrcode</string>
+	<string name="share_menu">share</string>
+    <string name="setting_menu">setting</string>
+	<string-array name="array_menu">
+		<item>主页</item>
+		<item>设置</item>
+		<item>分享</item>
+		<item>反馈</item>
+		<item>关于</item>
+	</string-array>
+</resources>
